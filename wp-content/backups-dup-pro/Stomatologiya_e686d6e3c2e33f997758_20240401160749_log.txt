@@ -1,0 +1,216 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2024-04-01 16:08:23
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.15.1
+WORDPRESS:	6.4.3
+PHP INFO:	8.0.22 | SAPI: apache2handler
+SERVER:		Apache 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+RUN TYPE:	Manual
+MEMORY STACK:	58MB
+ARCHIVE ENGINE: ZipArchive: multi-thread
+PACKAGE COMPONENTS:
+	Database,
+	Core,
+	Plugins,
+	Themes,
+	Media,
+	Other
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 21 | filtered:0 | create:21
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 1
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:1] wp_usermeta NUM ROWS: 30
+INSERT ROWS TABLE[INDEX:2] wp_commentmeta NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:3] wp_comments NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:4] wp_depicter_documents NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:5] wp_depicter_meta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:6] wp_depicter_options NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:7] wp_duplicator_backups NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:8] wp_duplicator_entities NUM ROWS: 8
+INSERT ROWS TABLE[INDEX:9] wp_e_events NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:10] wp_e_submissions NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:11] wp_e_submissions_actions_log NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:12] wp_e_submissions_values NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:13] wp_links NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:14] wp_options NUM ROWS: 233
+INSERT ROWS TABLE[INDEX:15] wp_postmeta NUM ROWS: 3275
+INSERT ROWS TABLE[INDEX:16] wp_posts NUM ROWS: 521
+INSERT ROWS TABLE[INDEX:17] wp_termmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:18] wp_terms NUM ROWS: 17
+INSERT ROWS TABLE[INDEX:19] wp_term_relationships NUM ROWS: 31
+INSERT ROWS TABLE[INDEX:20] wp_term_taxonomy NUM ROWS: 17
+SQL FILE SIZE CHECK OK, SIZE: 66457064
+SQL CREATED: Stomatologiya_e686d6e3c2e33f997758_20240401160749_database.sql
+SQL FILE SIZE: 63.38MB
+SQL FILE TIME: 2024-04-01 16:08:32
+SQL RUNTIME: 9.113 sec.
+MEMORY STACK: 58MB
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/OSPanel/domains/Klinika
+ARCHIVE FILE: Stomatologiya_e686d6e3c2e33f997758_20240401160749_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	199.01MB
+STATS:	Dirs 1,866 | Files 9,246 | Total 11,112
+SQL ADDED: Stomatologiya_e686d6e3c2e33f997758_20240401160749_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/OSPanel/domains/Klinika
+ARCHIVE FILE: Stomatologiya_e686d6e3c2e33f997758_20240401160749_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	199.01MB
+STATS:	Dirs 1,866 | Files 9,246 | Total 11,112
+SQL ADDED: Stomatologiya_e686d6e3c2e33f997758_20240401160749_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/OSPanel/domains/Klinika
+ARCHIVE FILE: Stomatologiya_e686d6e3c2e33f997758_20240401160749_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	199.01MB
+STATS:	Dirs 1,866 | Files 9,246 | Total 11,112
+SQL ADDED: Stomatologiya_e686d6e3c2e33f997758_20240401160749_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/OSPanel/domains/Klinika
+ARCHIVE FILE: Stomatologiya_e686d6e3c2e33f997758_20240401160749_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	199.01MB
+STATS:	Dirs 1,866 | Files 9,246 | Total 11,112
+SQL ADDED: Stomatologiya_e686d6e3c2e33f997758_20240401160749_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/OSPanel/domains/Klinika
+ARCHIVE FILE: Stomatologiya_e686d6e3c2e33f997758_20240401160749_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	199.01MB
+STATS:	Dirs 1,866 | Files 9,246 | Total 11,112
+SQL ADDED: Stomatologiya_e686d6e3c2e33f997758_20240401160749_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/OSPanel/domains/Klinika
+ARCHIVE FILE: Stomatologiya_e686d6e3c2e33f997758_20240401160749_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	199.01MB
+STATS:	Dirs 1,866 | Files 9,246 | Total 11,112
+SQL ADDED: Stomatologiya_e686d6e3c2e33f997758_20240401160749_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/OSPanel/domains/Klinika
+ARCHIVE FILE: Stomatologiya_e686d6e3c2e33f997758_20240401160749_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	199.01MB
+STATS:	Dirs 1,866 | Files 9,246 | Total 11,112
+SQL ADDED: Stomatologiya_e686d6e3c2e33f997758_20240401160749_database.sql
+COMPRESSED SIZE: 69.33MB
+ARCHIVE RUNTIME: 1711988033.697 sec.
+MEMORY STACK: 60MB
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+DEFAULT LOCAL: Default, C:/OSPanel/domains/Klinika/wp-content/backups-dup-pro
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 63.38MB
+INSTALLER FILE: 128.84KB
+ARCHIVE FILE: 71.8MB 
+EXPECTED FILE/DIRECTORY COUNT: 11,112
+ACTUAL FILE/DIRECTORY COUNT: 11,112
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 336.278 sec.
+PEAK PHP MEMORY USED: 58MB
+DONE PROCESSING => Stomatologiya 2024-04-01 16:13:59
+
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+** DEFAULT LOCAL [Name: Default] [ID: 3] **
+SUCCESS: package is in default location: C:/OSPanel/domains/Klinika/wp-content/backups-dup-pro
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+STORAGE PROCESSING COMPLETED
+Attempting to purge old packages at Default[ID: 3] type: Default Local
+Purge of old packages at Default[ID: 3] storage completed. Num packages deleted 0
+
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE CREATION OR MANUAL STORAGE TRANSFER END: 2024-04-01 16:14:02
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+********************************************************************************
+
